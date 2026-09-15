@@ -1,11 +1,17 @@
 ![Mommy Kyuu](./assets/hero.svg)
 
-# Mommy Kyuu
-
-> Alias: S.d.y  
-> Role: Developer / Builder
-
-I build APIs, web applications, automation bots, developer tools, and experimental software systems. Focused on crafting reliable backend architectures, minimal interfaces, and practical utilities.
+```yaml
+identity:
+  name: Mommy Kyuu
+  alias: S.d.y
+  role: Developer / Builder
+  status: Active // Building & Experimenting
+  focus:
+    - High-Performance REST APIs
+    - Automation Bots & Backend Services
+    - Developer Tooling & Utilities
+    - Experimental Software Systems
+```
 
 ![Overview](./assets/overview-card.svg)
 
@@ -13,11 +19,23 @@ I build APIs, web applications, automation bots, developer tools, and experiment
 
 ![About Me](./assets/section-about.svg)
 
-Mommy Kyuu is a developer and builder who enjoys building software projects, experimenting with different technologies, and turning ideas into working tools. Always exploring modern architectures, runtime environments, and pragmatic developer workflows.
+> **"Turning ideas into functional tools through pragmatic engineering and continuous experimentation."**
+
+Mommy Kyuu is a developer and builder focused on engineering clean APIs, automation bots, and modern web software. Constantly experimenting with diverse runtime environments, from statically typed backends to modular web tools.
+
+- **Core Focus:** Backend infrastructure, API design, bot automation, developer utilities.
+- **Workflow:** Clean architecture, minimal dependencies, fast execution, lightweight footprint.
+- **Approach:** Building practical software, testing edge-case ideas, and refining toolchains.
 
 ---
 
 ![Tech Stack](./assets/section-tech.svg)
+
+```
+Backend & Systems  :: Go • Java • Kotlin • Node.js • PHP • Dart
+Frontend & Script  :: TypeScript • JavaScript • CSS
+Data & Tooling     :: SQL • Git
+```
 
 ![Go](./assets/go.svg)
 ![JavaScript](./assets/javascript.svg)
@@ -35,42 +53,46 @@ Mommy Kyuu is a developer and builder who enjoys building software projects, exp
 
 ![Projects](./assets/section-projects.svg)
 
-### Kyzz Apis
+### 01 // Kyzz Apis
 
 ![Kyzz Apis](./assets/kyzz-apis.svg)
 
-Platform API dan developer tools.
+Platform API dan developer tools untuk integrasi backend, manipulasi data, dan penyediaan endpoint fungsional.
 
-- Platform: [api.kyzzz.xyz](https://api.kyzzz.xyz)
+- **Category:** Public Developer Platform & API Suite
+- **Deployment:** [api.kyzzz.xyz](https://api.kyzzz.xyz)
 
 ---
 
-### Kyzz Temp
+### 02 // Kyzz Temp
 
 ![Kyzz Temp](./assets/kyzz-temp-file.svg)
 
-Temporary file hosting and file sharing service.
+Layanan temporary file hosting dan file sharing cepat untuk penyimpanan serta distribusi berkas sementara.
 
-- Demo: [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
-- Source Code: [sfile.co/aFV577xkdHi](https://sfile.co/aFV577xkdHi)
+- **Category:** Temporary File Storage & Distribution
+- **Live Demo:** [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
+- **Source Code:** [sfile.co/aFV577xkdHi](https://sfile.co/aFV577xkdHi)
 
 ---
 
-### Kyzz Temp Mail
+### 03 // Kyzz Temp Mail
 
 ![Kyzz Temp Mail](./assets/kyzz-temp-mail.svg)
 
-Modern disposable temporary email service.
+Modern disposable temporary email service yang dirancang untuk penerimaan email verifikasi dan inbox sementara secara instan.
 
-- Demo: [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
-- Source Code: [github.com/KyuuX444/kyzz-temp](https://github.com/KyuuX444/kyzz-temp)
+- **Category:** Disposable Email Gateway & Inbox Receiver
+- **Live Demo:** [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
+- **Source Code:** [github.com/KyuuX444/kyzz-temp](https://github.com/KyuuX444/kyzz-temp)
 
 ---
 
-### Base REST API
+### 04 // Base REST API
 
 ![Base REST API](./assets/base-rest-api.svg)
 
-Base project for building and developing REST APIs.
+Base starter architecture dan fondasi modular untuk pengembangan REST API terstruktur dan siap pakai.
 
-- Source Code: [shorturl.at/Yo20G](https://shorturl.at/Yo20G)
+- **Category:** Backend Starter Template & REST API Foundation
+- **Source Code:** [shorturl.at/Yo20G](https://shorturl.at/Yo20G)
