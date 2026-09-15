@@ -21,34 +21,34 @@
   <!-- Top Accent Bar -->
   <rect x="0" y="0" width="850" height="3" rx="1.5" fill="url(#accentLine)"/>
 
-  <!-- Segment 1: Primary Focus -->
+  <!-- Segment 1: Identity & Location -->
   <g transform="translate(30, 26)">
     <circle cx="6" cy="10" r="3" fill="#3b82f6"/>
     <text x="18" y="14" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#60a5fa" letter-spacing="1">
-      PRIMARY FOCUS
+      BIO &amp; LOCATION
     </text>
     <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc">
-      REST APIs &amp; Developer Tools
+      Age: 17 Y.O. // Indonesia
     </text>
     <text x="0" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">
-      Automation Bots &amp; Backend Systems
+      Central Java (Jawa Tengah)
     </text>
   </g>
 
   <!-- Divider 1 -->
-  <line x1="295" y1="26" x2="295" y2="114" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 3"/>
+  <line x1="285" y1="26" x2="285" y2="114" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 3"/>
 
-  <!-- Segment 2: Architecture & Workflow -->
-  <g transform="translate(325, 26)">
+  <!-- Segment 2: Target & Goal -->
+  <g transform="translate(315, 26)">
     <circle cx="6" cy="10" r="3" fill="#38bdf8"/>
     <text x="18" y="14" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#38bdf8" letter-spacing="1">
-      ARCHITECTURE
+      ASPIRATION &amp; FOCUS
     </text>
     <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc">
-      High Performance &amp; Async I/O
+      Aspiring Senior Developer
     </text>
     <text x="0" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">
-      Modular, Lightweight &amp; Scalable
+      Backend Engineering &amp; Tooling
     </text>
   </g>
 

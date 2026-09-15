@@ -5,6 +5,9 @@ identity:
   name: Mommy Kyuu
   alias: S.d.y
   role: Developer / Builder
+  age: 17
+  origin: Central Java, Indonesia
+  aspiration: Senior Developer
   status: Active // Building & Experimenting
   focus:
     - High-Performance REST APIs
@@ -21,11 +24,12 @@ identity:
 
 > **"Turning ideas into functional tools through pragmatic engineering and continuous experimentation."**
 
-Mommy Kyuu is a developer and builder focused on engineering clean APIs, automation bots, and modern web software. Constantly experimenting with diverse runtime environments, from statically typed backends to modular web tools.
+Mommy Kyuu (S.d.y) is a 17-year-old developer and builder based in Central Java, Indonesia, with a strong ambition to grow into a **Senior Developer**. Passionate about architecting clean backend systems, automation bots, and modern web software. Constantly exploring modern runtime environments, modular architectures, and pragmatic workflows.
 
+- **Origin & Age:** 17 years old • Central Java, Indonesia
+- **Career Goal:** Senior Developer / Backend Engineer
 - **Core Focus:** Backend infrastructure, API design, bot automation, developer utilities.
 - **Workflow:** Clean architecture, minimal dependencies, fast execution, lightweight footprint.
-- **Approach:** Building practical software, testing edge-case ideas, and refining toolchains.
 
 ---
 
@@ -96,3 +100,17 @@ Base starter architecture dan fondasi modular untuk pengembangan REST API terstr
 
 - **Category:** Backend Starter Template & REST API Foundation
 - **Source Code:** [shorturl.at/Yo20G](https://shorturl.at/Yo20G)
+
+---
+
+![Connect & Socials](./assets/section-connect.svg)
+
+[![Instagram](./assets/instagram.svg)](https://instagram.com/kyzzapis)
+[![TikTok](./assets/tiktok.svg)](https://tiktok.com/@mommyykyuu)
+[![WhatsApp](./assets/whatsapp.svg)](https://wa.me/kyuryn)
+[![YouTube](./assets/youtube.svg)](https://youtube.com/@momnykyuu)
+
+- **Instagram:** [@kyzzapis](https://instagram.com/kyzzapis)
+- **TikTok:** [@mommyykyuu](https://tiktok.com/@mommyykyuu)
+- **WhatsApp:** [wa.me/kyuryn](https://wa.me/kyuryn)
+- **YouTube:** [@momnykyuu](https://youtube.com/@momnykyuu)
