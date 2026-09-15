@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 36" width="110" height="36">
+  <rect width="110" height="36" rx="6" fill="#0b111e" stroke="#1e293b" stroke-width="1"/>
+  <!-- SQL Database Cylinder Icon -->
+  <g transform="translate(10, 8)">
+    <ellipse cx="9" cy="4" rx="8" ry="3" fill="#1e293b" stroke="#3b82f6" stroke-width="1.2"/>
+    <path d="M1 4v5c0 1.65 3.58 3 8 3s8-1.35 8-3V4" fill="none" stroke="#3b82f6" stroke-width="1.2"/>
+    <path d="M1 9v5c0 1.65 3.58 3 8 3s8-1.35 8-3V9" fill="none" stroke="#60a5fa" stroke-width="1.2"/>
+  </g>
+  <text x="36" y="23" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">SQL</text>
+</svg>

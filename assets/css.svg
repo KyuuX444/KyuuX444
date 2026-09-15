@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 36" width="110" height="36">
+  <rect width="110" height="36" rx="6" fill="#0b111e" stroke="#1e293b" stroke-width="1"/>
+  <!-- CSS Shield -->
+  <g transform="translate(10, 8)">
+    <polygon points="1,0 17,0 15.5,17 9,19 2.5,17" fill="#1e293b" stroke="#38bdf8" stroke-width="1"/>
+    <text x="9" y="13.5" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="9" font-weight="800" fill="#38bdf8">3</text>
+  </g>
+  <text x="36" y="23" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">CSS</text>
+</svg>

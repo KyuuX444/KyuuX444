@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 110 36" width="110" height="36">
+  <rect width="110" height="36" rx="6" fill="#0b111e" stroke="#1e293b" stroke-width="1"/>
+  <!-- PHP Badge -->
+  <g transform="translate(9, 10)">
+    <ellipse cx="10" cy="8" rx="10" ry="7" fill="#1e293b" stroke="#3b82f6" stroke-width="1"/>
+    <text x="10" y="11.5" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="8.5" font-weight="800" fill="#93c5fd">php</text>
+  </g>
+  <text x="36" y="23" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">PHP</text>
+</svg>

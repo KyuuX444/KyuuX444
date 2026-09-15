@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 36" width="120" height="36">
+  <rect width="120" height="36" rx="6" fill="#0b111e" stroke="#1e293b" stroke-width="1"/>
+  <!-- Node.js Hexagon Icon -->
+  <g transform="translate(10, 9)">
+    <polygon points="9,0 18,5 18,15 9,20 0,15 0,5" fill="#0f172a" stroke="#38bdf8" stroke-width="1.3"/>
+    <path d="M5 13 L9 15 L13 13 V8 L9 6 L5 8 Z" fill="#2563eb" opacity="0.6"/>
+  </g>
+  <text x="36" y="23" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Node.js</text>
+</svg>

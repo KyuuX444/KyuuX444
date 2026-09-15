@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 36" width="120" height="36">
+  <rect width="120" height="36" rx="6" fill="#0b111e" stroke="#1e293b" stroke-width="1"/>
+  <!-- Kotlin Geometric Icon -->
+  <g transform="translate(10, 9)">
+    <polygon points="0,18 18,0 0,0" fill="#2563eb"/>
+    <polygon points="18,18 9,9 18,0" fill="#60a5fa"/>
+    <polygon points="0,18 9,9 0,0" fill="#3b82f6"/>
+  </g>
+  <text x="36" y="23" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Kotlin</text>
+</svg>
