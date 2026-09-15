@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="100%" height="100%">
+  <defs>
+    <linearGradient id="cardBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#090d16"/>
+      <stop offset="100%" stop-color="#04060a"/>
+    </linearGradient>
+    <linearGradient id="accentLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="50%" stop-color="#60a5fa"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+    <pattern id="cardGrid" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#1e293b" stroke-width="0.5" stroke-opacity="0.25"/>
+    </pattern>
+  </defs>
+
+  <!-- Container Box -->
+  <rect width="850" height="140" rx="10" fill="url(#cardBg)" stroke="#1e293b" stroke-width="1"/>
+  <rect width="850" height="140" rx="10" fill="url(#cardGrid)"/>
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="850" height="3" rx="1.5" fill="url(#accentLine)"/>
+
+  <!-- Segment 1: Primary Focus -->
+  <g transform="translate(30, 26)">
+    <circle cx="6" cy="10" r="3" fill="#3b82f6"/>
+    <text x="18" y="14" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#60a5fa" letter-spacing="1">
+      PRIMARY FOCUS
+    </text>
+    <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc">
+      REST APIs &amp; Developer Tools
+    </text>
+    <text x="0" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">
+      Automation Bots &amp; Backend Systems
+    </text>
+  </g>
+
+  <!-- Divider 1 -->
+  <line x1="295" y1="26" x2="295" y2="114" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- Segment 2: Architecture & Workflow -->
+  <g transform="translate(325, 26)">
+    <circle cx="6" cy="10" r="3" fill="#38bdf8"/>
+    <text x="18" y="14" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#38bdf8" letter-spacing="1">
+      ARCHITECTURE
+    </text>
+    <text x="0" y="42" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600" fill="#f8fafc">
+      High Performance &amp; Async I/O
+    </text>
+    <text x="0" y="66" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400" fill="#94a3b8">
+      Modular, Lightweight &amp; Scalable
+    </text>
+  </g>
+
+  <!-- Divider 2 -->
+  <line x1="590" y1="26" x2="590" y2="114" stroke="#1e293b" stroke-width="1" stroke-dasharray="3 3"/>
+
+  <!-- Segment 3: System Status -->
+  <g transform="translate(620, 26)">
+    <circle cx="6" cy="10" r="3" fill="#10b981"/>
+    <text x="18" y="14" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="700" fill="#93c5fd" letter-spacing="1">
+      SYSTEM STATUS
+    </text>
+    <rect x="0" y="28" width="130" height="24" rx="4" fill="#0f172a" stroke="#2563eb" stroke-width="0.9"/>
+    <circle cx="12" cy="40" r="3" fill="#38bdf8"/>
+    <text x="22" y="44" font-family="'JetBrains Mono', monospace" font-size="10.5" font-weight="700" fill="#93c5fd">
+      ONLINE // ACTIVE
+    </text>
+    <text x="0" y="74" font-family="'JetBrains Mono', monospace" font-size="11.5" font-weight="500" fill="#64748b">
+      BUILDER_MODE: ON
+    </text>
+  </g>
+</svg>

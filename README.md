@@ -7,15 +7,17 @@
 
 I build APIs, web applications, automation bots, developer tools, and experimental software systems. Focused on crafting reliable backend architectures, minimal interfaces, and practical utilities.
 
+![Overview](./assets/overview-card.svg)
+
 ---
 
-## About
+![About Me](./assets/section-about.svg)
 
 Mommy Kyuu is a developer and builder who enjoys building software projects, experimenting with different technologies, and turning ideas into working tools. Always exploring modern architectures, runtime environments, and pragmatic developer workflows.
 
 ---
 
-## Tech Stack
+![Tech Stack](./assets/section-tech.svg)
 
 ![Go](./assets/go.svg)
 ![JavaScript](./assets/javascript.svg)
@@ -31,7 +33,7 @@ Mommy Kyuu is a developer and builder who enjoys building software projects, exp
 
 ---
 
-## Projects
+![Projects](./assets/section-projects.svg)
 
 ### Kyzz Apis
 

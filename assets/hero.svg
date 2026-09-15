@@ -1,67 +1,66 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 210" width="100%" height="100%">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#080c14"/>
-      <stop offset="50%" stop-color="#0b111e"/>
-      <stop offset="100%" stop-color="#05070c"/>
+    <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070a12"/>
+      <stop offset="50%" stop-color="#0a101d"/>
+      <stop offset="100%" stop-color="#04060a"/>
     </linearGradient>
     <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="0%" stop-color="#2563eb"/>
       <stop offset="50%" stop-color="#60a5fa"/>
-      <stop offset="100%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
     </linearGradient>
-    <linearGradient id="borderGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+    <linearGradient id="heroBorder" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#1e293b"/>
-      <stop offset="30%" stop-color="#3b82f6"/>
-      <stop offset="70%" stop-color="#1e293b"/>
+      <stop offset="25%" stop-color="#3b82f6"/>
+      <stop offset="75%" stop-color="#1e293b"/>
       <stop offset="100%" stop-color="#0f172a"/>
     </linearGradient>
-    <pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse">
-      <path d="M 20 0 L 0 0 0 20" fill="none" stroke="#1e293b" stroke-width="0.5" stroke-opacity="0.3"/>
+    <pattern id="heroGrid" width="22" height="22" patternUnits="userSpaceOnUse">
+      <path d="M 22 0 L 0 0 0 22" fill="none" stroke="#1e293b" stroke-width="0.5" stroke-opacity="0.3"/>
     </pattern>
   </defs>
 
   <!-- Background Base -->
-  <rect width="850" height="200" rx="12" fill="url(#bgGrad)"/>
-  <rect width="850" height="200" rx="12" fill="url(#grid)"/>
+  <rect width="850" height="210" rx="12" fill="url(#heroBg)"/>
+  <rect width="850" height="210" rx="12" fill="url(#heroGrid)"/>
+  <rect x="1" y="1" width="848" height="208" rx="11" fill="none" stroke="url(#heroBorder)" stroke-width="1.2"/>
 
-  <!-- Border Outline -->
-  <rect x="1" y="1" width="848" height="198" rx="11" fill="none" stroke="url(#borderGrad)" stroke-width="1.2"/>
+  <!-- Top Status Bar -->
+  <g transform="translate(44, 34)">
+    <circle cx="0" cy="0" r="4" fill="#38bdf8"/>
+    <text x="12" y="4" font-family="'JetBrains Mono', monospace" font-size="11" font-weight="600" fill="#93c5fd" letter-spacing="1">
+      DEV_ENVIRONMENT // SYSTEM READY
+    </text>
+    <line x1="260" y1="0" x2="760" y2="0" stroke="#1e293b" stroke-width="1" stroke-dasharray="4 4"/>
+  </g>
 
-  <!-- Tech Accent Details -->
-  <circle cx="48" cy="42" r="3.5" fill="#3b82f6"/>
-  <circle cx="62" cy="42" r="3.5" fill="#1e293b"/>
-  <circle cx="76" cy="42" r="3.5" fill="#1e293b"/>
-
-  <line x1="100" y1="42" x2="800" y2="42" stroke="#1e293b" stroke-width="1" stroke-dasharray="4 4"/>
-
-  <!-- Main Identity Content -->
-  <!-- Name -->
-  <text x="48" y="98" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="34" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
+  <!-- Name & Alias -->
+  <text x="44" y="96" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="36" font-weight="800" fill="#ffffff" letter-spacing="-0.5">
     Mommy Kyuu
   </text>
 
-  <!-- Alias Badge -->
-  <rect x="290" y="74" width="70" height="26" rx="6" fill="#0f172a" stroke="#2563eb" stroke-width="1"/>
-  <text x="325" y="92" text-anchor="middle" font-family="'JetBrains Mono', 'Fira Code', 'Roboto Mono', monospace" font-size="13" font-weight="600" fill="#93c5fd" letter-spacing="0.5">
+  <!-- Alias Tag -->
+  <rect x="315" y="70" width="76" height="28" rx="6" fill="#0f172a" stroke="#2563eb" stroke-width="1.2"/>
+  <text x="353" y="89" text-anchor="middle" font-family="'JetBrains Mono', monospace" font-size="13.5" font-weight="700" fill="#60a5fa">
     S.d.y
   </text>
 
   <!-- Role Subtitle -->
-  <text x="48" y="132" font-family="'JetBrains Mono', 'Fira Code', 'Roboto Mono', monospace" font-size="15" font-weight="500" fill="#3b82f6" letter-spacing="1.5">
+  <text x="44" y="136" font-family="'JetBrains Mono', monospace" font-size="15" font-weight="600" fill="#38bdf8" letter-spacing="2">
     DEVELOPER / BUILDER
   </text>
 
   <!-- Bio Line -->
-  <text x="48" y="162" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8">
-    Building APIs, web applications, bots, developer tooling, and experimental software.
+  <text x="44" y="168" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="400" fill="#94a3b8">
+    Building APIs, web applications, bots, developer tools, and experimental software systems.
   </text>
 
-  <!-- Geometric Minimal Graphic on Right Side -->
-  <g transform="translate(680, 55)" opacity="0.85">
-    <polygon points="60,10 110,40 110,100 60,130 10,100 10,40" fill="none" stroke="#1e293b" stroke-width="1.5"/>
-    <polygon points="60,25 95,45 95,85 60,105 25,85 25,45" fill="none" stroke="#2563eb" stroke-width="1.2" stroke-dasharray="3 3"/>
-    <circle cx="60" cy="65" r="16" fill="#0f172a" stroke="#3b82f6" stroke-width="1.5"/>
-    <path d="M54 65 L58 69 L67 60" fill="none" stroke="#60a5fa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  <!-- Right Geometric Holographic Accent -->
+  <g transform="translate(685, 48)" opacity="0.9">
+    <polygon points="55,5 105,35 105,95 55,125 5,95 5,35" fill="#0b1220" stroke="#1e293b" stroke-width="1.5"/>
+    <polygon points="55,18 92,40 92,88 55,110 18,88 18,40" fill="none" stroke="#2563eb" stroke-width="1.2" stroke-dasharray="3 3"/>
+    <circle cx="55" cy="65" r="18" fill="#0f172a" stroke="#38bdf8" stroke-width="1.5"/>
+    <path d="M48 65 L53 70 L63 60" fill="none" stroke="#60a5fa" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
   </g>
 </svg>
