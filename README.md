@@ -1,44 +1,44 @@
 ![Mommy Kyuu](./assets/hero.svg)
 
 ```yaml
-identity:
-  name: Mommy Kyuu
+identitas:
+  nama: Mommy Kyuu
   alias: S.d.y
-  role: Developer / Builder
-  age: 17
-  origin: Central Java, Indonesia
-  aspiration: Senior Developer
-  status: Active // Building & Experimenting
-  focus:
+  peran: Developer / Builder
+  usia: 17
+  asal: Jawa Tengah, Indonesia
+  cita_cita: Senior Developer
+  status: Aktif // Membangun & Bereksperimen
+  fokus:
     - High-Performance REST APIs
-    - Automation Bots & Backend Services
-    - Developer Tooling & Utilities
-    - Experimental Software Systems
+    - Bot Otomatisasi & Layanan Backend
+    - Developer Tooling & Utilitas
+    - Software Sistem Eksperimental
 ```
 
-![Overview](./assets/overview-card.svg)
+![Ringkasan](./assets/overview-card.svg)
 
 ---
 
-![About Me](./assets/section-about.svg)
+![Tentang Saya](./assets/section-about.svg)
 
-> **"Turning ideas into functional tools through pragmatic engineering and continuous experimentation."**
+> **"Mengubah ide menjadi perangkat lunak fungsional melalui rekayasa pragmatis dan eksperimen berkelanjutan."**
 
-Mommy Kyuu (S.d.y) is a 17-year-old developer and builder based in Central Java, Indonesia, with a strong ambition to grow into a **Senior Developer**. Passionate about architecting clean backend systems, automation bots, and modern web software. Constantly exploring modern runtime environments, modular architectures, and pragmatic workflows.
+Mommy Kyuu (S.d.y) adalah seorang developer berusia 17 tahun asal Jawa Tengah, Indonesia, dengan ambisi kuat untuk berkembang menjadi seorang **Senior Developer**. Memiliki dedikasi tinggi dalam merancang arsitektur backend yang bersih, bot otomatisasi, serta aplikasi web modern. Selalu antusias mengeksplorasi berbagai runtime, arsitektur modular, dan alur kerja pengembangan yang efisien.
 
-- **Origin & Age:** 17 years old • Central Java, Indonesia
-- **Career Goal:** Senior Developer / Backend Engineer
-- **Core Focus:** Backend infrastructure, API design, bot automation, developer utilities.
-- **Workflow:** Clean architecture, minimal dependencies, fast execution, lightweight footprint.
+- **Domisili & Usia:** 17 Tahun • Jawa Tengah, Indonesia
+- **Target Karier:** Senior Developer / Backend Engineer
+- **Fokus Utama:** Infrastruktur backend, perancangan API, bot otomatisasi, utilitas developer.
+- **Prinsip Kerja:** Arsitektur bersih, dependensi minimal, eksekusi cepat, dan konsumsi resource yang ringan.
 
 ---
 
-![Tech Stack](./assets/section-tech.svg)
+![Keahlian & Teknologi](./assets/section-tech.svg)
 
 ```
-Backend & Systems  :: Go • Java • Kotlin • Node.js • PHP • Dart
-Frontend & Script  :: TypeScript • JavaScript • CSS
-Data & Tooling     :: SQL • Git
+Backend & Sistem   :: Go • Java • Kotlin • Node.js • PHP • Dart
+Frontend & Skrip   :: TypeScript • JavaScript • CSS
+Database & Tooling :: SQL • Git
 ```
 
 ![Go](./assets/go.svg)
@@ -55,15 +55,15 @@ Data & Tooling     :: SQL • Git
 
 ---
 
-![Projects](./assets/section-projects.svg)
+![Proyek Unggulan](./assets/section-projects.svg)
 
 ### 01 // Kyzz Apis
 
 ![Kyzz Apis](./assets/kyzz-apis.svg)
 
-Platform API dan developer tools untuk integrasi backend, manipulasi data, dan penyediaan endpoint fungsional.
+Platform API dan developer tools untuk integrasi backend, pengolahan data, dan penyediaan endpoint layanan siap pakai.
 
-- **Category:** Public Developer Platform & API Suite
+- **Kategori:** Public Developer Platform & API Suite
 - **Deployment:** [api.kyzzz.xyz](https://api.kyzzz.xyz)
 
 ---
@@ -72,10 +72,10 @@ Platform API dan developer tools untuk integrasi backend, manipulasi data, dan p
 
 ![Kyzz Temp](./assets/kyzz-temp-file.svg)
 
-Layanan temporary file hosting dan file sharing cepat untuk penyimpanan serta distribusi berkas sementara.
+Layanan temporary file hosting dan file sharing cepat untuk penyimpanan serta distribusi berkas sementara secara praktis.
 
-- **Category:** Temporary File Storage & Distribution
-- **Live Demo:** [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
+- **Kategori:** Temporary File Storage & Distribution
+- **Demo Langsung:** [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
 - **Source Code:** [sfile.co/aFV577xkdHi](https://sfile.co/aFV577xkdHi)
 
 ---
@@ -84,10 +84,10 @@ Layanan temporary file hosting dan file sharing cepat untuk penyimpanan serta di
 
 ![Kyzz Temp Mail](./assets/kyzz-temp-mail.svg)
 
-Modern disposable temporary email service yang dirancang untuk penerimaan email verifikasi dan inbox sementara secara instan.
+Layanan disposable temporary email modern untuk menerima email verifikasi dan kotak masuk sementara secara instan.
 
-- **Category:** Disposable Email Gateway & Inbox Receiver
-- **Live Demo:** [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
+- **Kategori:** Disposable Email Gateway & Inbox Receiver
+- **Demo Langsung:** [tempfiles-ecru.vercel.app](https://tempfiles-ecru.vercel.app/)
 - **Source Code:** [github.com/KyuuX444/kyzz-temp](https://github.com/KyuuX444/kyzz-temp)
 
 ---
@@ -96,14 +96,14 @@ Modern disposable temporary email service yang dirancang untuk penerimaan email 
 
 ![Base REST API](./assets/base-rest-api.svg)
 
-Base starter architecture dan fondasi modular untuk pengembangan REST API terstruktur dan siap pakai.
+Base starter architecture dan fondasi modular untuk pengembangan REST API terstruktur, terisolasi, dan siap pakai.
 
-- **Category:** Backend Starter Template & REST API Foundation
+- **Kategori:** Backend Starter Template & REST API Foundation
 - **Source Code:** [shorturl.at/Yo20G](https://shorturl.at/Yo20G)
 
 ---
 
-![Connect & Socials](./assets/section-connect.svg)
+![Hubungi Saya](./assets/section-connect.svg)
 
 [![Instagram](./assets/instagram.svg)](https://instagram.com/kyzzapis)
 [![TikTok](./assets/tiktok.svg)](https://tiktok.com/@mommyykyuu)
